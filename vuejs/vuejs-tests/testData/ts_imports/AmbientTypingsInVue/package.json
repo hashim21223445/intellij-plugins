@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "myModule": "",
-    "vue": "^2.5.17"
+    "vue": "^3.5.17"
   }
 }
