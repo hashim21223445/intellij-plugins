@@ -20,7 +20,7 @@
     "@vue/eslint-config-prettier": "^7.1.0",
     "@vue/eslint-config-typescript": "^11.0.3",
     "@vue/test-utils": "^2.3.2",
-    "cypress": "^12.16.0",
+    "cypress": "^13.0.0",
     "eslint": "~8.15.0",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-cypress": "^2.10.3",
