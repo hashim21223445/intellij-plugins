@@ -15,10 +15,10 @@
     "my-common-ui-lib": "file:dist/my-common-ui-lib"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.13.0",
+    "@angular-devkit/build-angular": "~0.800.0",
     "@angular-devkit/build-ng-packagr": "~0.13.0",
     "@angular/animations": "~7.2.0",
-    "@angular/cli": "~7.3.0",
+    "@angular/cli": "~20.3.15",
     "@angular/common": "~7.2.0",
     "@angular/compiler": "~7.2.0",
     "@angular/compiler-cli": "~7.2.0",
@@ -41,14 +41,14 @@
     "karma-coverage-istanbul-reporter": "~2.0.1",
     "karma-jasmine": "~1.1.2",
     "karma-jasmine-html-reporter": "^0.2.2",
-    "ng-packagr": "^4.2.0",
+    "ng-packagr": "^5.0.0",
     "protractor": "~5.4.0",
     "rxjs": "~6.3.3",
     "rxjs-compat": "^6.4.0",
-    "ts-node": "~7.0.0",
+    "ts-node": "~8.1.1",
     "tsickle": ">=0.34.0",
     "tslib": "^1.9.0",
-    "tslint": "~5.11.0",
+    "tslint": "~5.20.0",
     "typescript": "~3.2.2",
     "zone.js": "~0.8.26"
   }
